@@ -1,1 +1,2 @@
-study_repo
+# Study Repository
+This is a sample repo, hello world!
